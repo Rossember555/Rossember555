@@ -1,4 +1,4 @@
-# Hola, soy Efrain:honduras: 👋
+# Hola, soy Rossember Edén Cardenas Torres: 👋
 
 Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas y las redes. Me he dedicado al área de soporte técnico e impartir cursos de redes. Algunos sistemas desarrollados en mi ciudad de origen a empresas locales, y ahora me he decidio a ser un backend developer. Tengo conocimiento de php y estoy aprendiendo python.
 
