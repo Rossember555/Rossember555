@@ -3,12 +3,13 @@
 Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_teacher: y me gusta la programación, las matemáticas y las redes. Me he dedicado al área de soporte técnico e impartir cursos de redes. Algunos sistemas desarrollados en mi ciudad de origen a empresas locales, y ahora me he decidio a ser un backend developer. Tengo conocimiento de php y estoy aprendiendo python.
 
 ## Tecnologías
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=Php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-lightgrey?style=plastic&logo=Python&logoColor=black)
-![MySql](https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=Mysql&logoColor=black)
+- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp; <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/> &nbsp;<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="20"/> &nbsp;<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp;<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white" height="20" />
+
+- <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat&logo=Jupyter&logoColor=white" height="20" />&nbsp;
+<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/>&nbsp;<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20" />&nbsp;<img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20" /> &nbsp;<img alt="scipy" src="https://img.shields.io/badge/scipy%20-%23117AC9.svg?&style=flat&logo=scipy&logoColor=white" height="20" />&nbsp;<img alt="plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit" src="https://img.shields.io/badge/scikit%20-%23FF9900.svg?&style=flat&logo=scikit-learn&logoColor=white" height="20" />&nbsp;<img alt="tensorflow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20" />&nbsp;<img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
+
+
+
 
 ## Artículos
 [Crea tu perfil en Github con Readme.md](https://dev.to/erivera23/como-crear-tu-perfil-de-github-con-readme-md-4odd)
