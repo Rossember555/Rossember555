@@ -10,7 +10,10 @@ Soy ingeniero en informática :man_technologist:, me gusta mucho enseñar :man_t
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/>&nbsp;<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20" />&nbsp;<img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20" /> &nbsp;<img alt="scipy" src="https://img.shields.io/badge/scipy%20-%23117AC9.svg?&style=flat&logo=scipy&logoColor=white" height="20" />&nbsp;<img alt="plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit" src="https://img.shields.io/badge/scikit%20-%23FF9900.svg?&style=flat&logo=scikit-learn&logoColor=white" height="20" />&nbsp;<img alt="tensorflow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20" />&nbsp;<img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
 
 ## Intereses
-[Crea tu perfil en Github con Readme.md](https://dev.to/erivera23/como-crear-tu-perfil-de-github-con-readme-md-4odd)
+- Machine Learning
+- Solubilidad
+- Big Data
+- Modelación Matemática
 
 ## Contacto
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
